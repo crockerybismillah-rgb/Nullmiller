@@ -1,0 +1,8 @@
+{
+  "enableGlobal": true,
+  "enableBgmi": true,
+  "enableKorea": true,
+  "maintenance": false,
+  "javaModeMaintenance": true,
+  "autoModeMaintenance": false
+}
